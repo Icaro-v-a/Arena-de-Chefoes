@@ -35,7 +35,7 @@ O desafio não é simplesmente atacar até a vida do chefão acabar: ele realiza
 
 *O dano ainda é aleatório dentro das faixas informadas. Entender o padrão do adversário não garante vitória, mas ajuda a tomar decisões melhores.*
 
-## Desafios extras — escolha pelo menos um
+## Desafios extras: escolha pelo menos um
 
 - **Modo fúria:** quando o chefão chega a 75 PV ou menos, seus ataques ficam mais fortes. Indique isso na interface.
 - **Novo chefão:** adicione um inimigo com vida, aparência ou padrão de ataque diferente (sem quebrar as regras obrigatórias do chefe original).
