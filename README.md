@@ -1,4 +1,4 @@
-# Desafio prático — Arena de Chefões ⚔️
+# Desafio prático — Arena de Chefões
 
 **Disciplina:** Desenvolvimento de Sistemas  
 **Equipe:** 2 ou 3 estudantes  
