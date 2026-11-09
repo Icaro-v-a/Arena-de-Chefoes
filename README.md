@@ -1,4 +1,4 @@
-# Desafio prático — Arena de Chefões
+# Desafio prático: Arena de Chefões
 
 **Disciplina:** Desenvolvimento de Sistemas  
 **Equipe:** 2 ou 3 estudantes  
@@ -45,7 +45,7 @@ O desafio não é simplesmente atacar até a vida do chefão acabar: ele realiza
 
 ## Orientações de desenvolvimento
 
-**Back-end — regras do jogo**  
+**Back-end: regras do jogo**  
 Abra `src/Batalha.java` e complete os TODOs 1 a 3. Preste atenção à contagem de turnos: o golpe especial ocorre nos turnos múltiplos de 3, contando apenas as ações válidas. O aviso do **próximo** golpe já tem um campo reservado no JSON.
 
 **Integração JavaScript ↔ Java**  
